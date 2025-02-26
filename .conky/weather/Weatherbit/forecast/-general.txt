@@ -1,0 +1,6 @@
+lat: 45.4071
+lon: 11.8768
+TimeZone: Europe/Rome
+Cityname: Padova
+Countrycode: IT
+Statecode: 20
