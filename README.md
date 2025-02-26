@@ -25,7 +25,7 @@ Run the file `.conkyrc_wbforecast` from terminal (the first time you run this co
 
 ## Screenshot
 
-![](https://github.com/TheHeadlessOfficial/weather_forecastWB/blob/main/.conky/docs/screenshot.jpg)<br>
+![](https://github.com/TheHeadlessOfficial/weather_forecastWB/blob/main/.conky/docs/screenshot.png)<br>
 
 <br>
 <br>
