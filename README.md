@@ -14,6 +14,7 @@ If you don't know how to get your APPID, follow this video instructions: [APPID 
 <br>
 In the `font` folder, you can find some fonts you need.<br>
 The python script saves data in files so you can build your conky weather as you wish.<br>
+Edit `.conkyrc_wbforecast` to build your conky.<br>
 The `.conkyrc_wbforecast` file i attach, works.<br>
 Run the file `.conkyrc_wbforecast` from terminal (the first time you run this conky), so you can get possible errors. 
 
