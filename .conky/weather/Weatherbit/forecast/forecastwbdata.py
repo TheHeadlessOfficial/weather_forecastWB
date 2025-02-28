@@ -1,11 +1,11 @@
-import os
-import requests
-import time
 # Lock file to tell conky that the script is running
 lock_file = "/tmp/script_wbforecast.lock"
 # Check for file lock
 try:
     open(lock_file, 'w').close()
+    import os
+    import requests
+    import time
     ################################ set your latitude, longitude and APPID (don't delete apostrophes)
     mylat = 
     mylon = 
